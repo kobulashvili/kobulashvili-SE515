@@ -1,3 +1,31 @@
 <Solution>
-  <Project Path="ლექცია1/ლექცია1.csproj" />
+  <Folder Name="/Uni/">
+    <Project Path="Uni.Core/Uni.Core.csproj" Id="730e70be-facb-4939-8e28-7455b6599d36" />
+    <Project Path="Uni.Infrastructure/Uni.Infrastructure.csproj" Id="fbaf9bbc-0fc8-408a-8e4d-3e230b0c1e99" />
+    <Project Path="Uni.Service/Uni.Service.csproj" Id="ee7f2961-021b-4b36-8524-169a961f8067" />
+    <Project Path="Uni.UI/Uni.UI.csproj" Id="8e1fecdc-4c15-43c0-8884-fc68e5fa644e" />
+  </Folder>
+  <Folder Name="/University/">
+    <Project Path="University.Core/University.Core.csproj" Id="8ebbf96c-d21f-4ab7-84c7-f9dd00deffeb" />
+    <Project Path="University.Infostructure/University.Infostructure.csproj" Id="a77c12a7-bace-4dd4-93ea-a87390b96238" />
+    <Project Path="University.Service/University.Service.csproj" Id="d4f8fd6f-66bf-4bd0-a42e-00121d4189ec" />
+    <Project Path="University.UI/University.UI.csproj" Id="4ee5c680-eec1-4c8d-9327-d7f8332b13b4" />
+  </Folder>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="813b8a14-a775-4240-bb7b-148afb9d8ead" />
+  <Project Path="homework 10/homework 10.csproj" Id="60c26260-9739-4e3f-afd4-fc100f404898" />
+  <Project Path="homework 11/homework 11.csproj" Id="4750334f-06b4-4836-af60-0059a14a8c54" />
+  <Project Path="homework 3/homework 3.csproj" Id="f53ae6a1-4103-46d9-b2e1-c9093981d9d0" />
+  <Project Path="homework 4/homework 4.csproj" Id="bf8f6d0c-e8a1-48ef-9d10-2e081d1f84c0" />
+  <Project Path="homework 6 string/homework 6 string.csproj" Id="4e780673-6512-4576-9f91-9658de4bdbdc" />
+  <Project Path="homework 7/homework 7.csproj" Id="d91d4d8e-94b5-4493-92cd-ad49892f2fb2" />
+  <Project Path="homework 8/homework 8.csproj" Id="1f9d8b86-50af-408a-8717-09c2663cb398" />
+  <Project Path="homework/homework.csproj" Id="503f2f47-71be-4267-958d-bbe94ad4cbdd" />
+  <Project Path="HW 18 Delegates/HW 18 Delegates.csproj" Id="f2ed76b1-7137-49ff-8327-a3b762f86b39" />
+  <Project Path="HW 19 mini project/HW 19 mini project.csproj" Id="94ecb091-5e29-4297-93cf-c48c03f40659" />
+  <Project Path="HW 9/HW 9.csproj" Id="ab346b31-31f5-4e21-8dcf-86d1031a1281" />
+  <Project Path="hw12 generic/hw12 generic.csproj" Id="48ba4269-24e2-4423-bdd9-90fe9168d065" />
+  <Project Path="hw14/hw14.csproj" Id="41297bce-756a-4be8-a5f3-306c3d60b5b5" />
+  <Project Path="HW15 list/HW15 list.csproj" Id="36f52b96-5c8e-40c0-905b-814785ddf106" />
+  <Project Path="HW16 collection/HW16 collection.csproj" Id="3f86a4d7-e8a9-4142-a877-90fb38a13bd7" />
+  <Project Path="ლექცია 4/ლექცია 4.csproj" Id="5e141f99-6b37-4912-811b-3352c7950250" />
 </Solution>

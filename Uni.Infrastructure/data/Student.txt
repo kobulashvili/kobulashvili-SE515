@@ -1,0 +1,1 @@
+[{"GPA":3.5,"subjact":[{"Title":"math","Credits":99}],"Id":1,"Name":"John Doe","Age":20,"Email":"kobulakobula.13@gmail.com","password":"$2a$11$.w3xrDDAhxb8.TvWagApV.FFYahpADHF595xvT0I9mUELQKZhW1BK","verifies":"5089","IsVerifies":false,"Gender":0}]
